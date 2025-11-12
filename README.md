@@ -6,7 +6,7 @@ De tekst staat op deze site en ook een AI gegenereerde beschouwing van de tekst.
 ## 📄 Beschikbare Bestanden (Submenu)
 
 [Link Tekst](2025 DFS Tredrede JR november (1).pdf)
-* **[Open PDF Documentatie](2025 DFS Tredrede JR november (1).pdf)**
-* **[Bekijk het Diagram](Diagram.png)**
+* **[Open Documentatie](2025 DFS Trendrede JR november - red JR-2.docx)**
+* **[Bekijk Banner](2025-11-06 Stufen Hermann Hesse.png)**
 
 ---
