@@ -8,4 +8,3 @@ De tekst staat op deze site en ook een AI gegenereerde beschouwing van de tekst.
 * **[Open Document](2025 DFS Trendrede JR november - red JR-2.pdf)**
 * **[Bekijk Banner](2025-11-06 Stufen Hermann Hesse.png)**
 
----
