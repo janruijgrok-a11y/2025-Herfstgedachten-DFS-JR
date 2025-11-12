@@ -5,7 +5,7 @@ De tekst staat op deze site en ook een AI gegenereerde beschouwing van de tekst.
 
 ## 📄 Beschikbare Bestanden (Submenu)
 
-Open 2025 DFS Tredrede JR november (1).pdf
+[Link Tekst](2025 DFS Tredrede JR november (1).pdf)
 * **[Bekijk het Diagram](Diagram.png)**
 
 ---
